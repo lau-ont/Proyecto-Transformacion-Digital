@@ -10,8 +10,9 @@
 # Informacion general
 ***
 
-Este repositorio contiene un proyecto académico encargado por Adalab, para la gestión de ficheros y datos de tipo XML, TXT y SQL.
-Ya que la empresa esta en un proceso activo de trasformación digital.
+Este repositorio contiene un proyecto académico en el que se lleva a cabo la transformación digital de una empresa.
+
+Los objetivos son los de crear una base de datos a medida del tipo de data del cliente, en este caso XML, TXT y SQL. Y la siguiente automatización de la inserción de datos para poder actualizar fácilmente sus registros y realizar consultas cómodamente.
 
 ## Contenidos
 ***
