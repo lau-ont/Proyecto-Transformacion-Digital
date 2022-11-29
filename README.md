@@ -1,5 +1,4 @@
 # Proyecto de transformación digital
-Proyecto académico de creación de bases de datos, y la posterior inserción de registros.
 
 ## Indice 	:loudspeaker:
 
