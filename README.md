@@ -1,6 +1,5 @@
 # transformacion_digital
 Proyecto académico de creación de bases de datos, y la posterior inserción de registros.
-# Fortune Cookie :fortune_cookie:
 
 ## Indice 	:loudspeaker:
 
@@ -12,7 +11,8 @@ Proyecto académico de creación de bases de datos, y la posterior inserción de
 # Informacion general :star:
 ***
 
-Este repositorio contiene nuestro proyecto encargado por Adalab, para la gestión de fichero y datos de tipo XML, TXT y SQL.Ya que la empresa esta en un proceso activo de trasformación digital.
+Este repositorio contiene un proyecto académico encargado por Adalab, para la gestión de ficheros y datos de tipo XML, TXT y SQL.
+Ya que la empresa esta en un proceso activo de trasformación digital.
 
 ## Contenidos :zap:
 ***
