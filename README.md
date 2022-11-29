@@ -5,7 +5,6 @@
 1. [Informacion general](#informacion-general)
 2. [Contenidos](#contenidos)
 3. [Instalaciones](#instalaciones)
-4. [Integrantes](#integrantes)
 
 # Informacion general
 ***
