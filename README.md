@@ -8,13 +8,13 @@ Proyecto académico de creación de bases de datos, y la posterior inserción de
 3. [Instalaciones](#instalaciones)
 4. [Integrantes](#integrantes)
 
-# Informacion general :star:
+# Informacion general
 ***
 
 Este repositorio contiene un proyecto académico encargado por Adalab, para la gestión de ficheros y datos de tipo XML, TXT y SQL.
 Ya que la empresa esta en un proceso activo de trasformación digital.
 
-## Contenidos :zap:
+## Contenidos
 ***
 
       1.Esquemas : Que contiene : La relación entre tablas de la base de datos.
@@ -42,7 +42,7 @@ Ya que la empresa esta en un proceso activo de trasformación digital.
                 03. Limpieza de SQL en SQL.
                 
 
-## Instalaciones :sparkles:
+## Instalaciones
 ***
 Para la inserción de datos en python necesitaremos instalar el conector de python y sql: 
 ```
